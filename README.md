@@ -1,4 +1,4 @@
-# EDA + Redis Streams — ARSW Taller 3 (2026-i)
+# EDA + Redis Streams 
 
 ## Author: Daniel Esteban Rodriguez Suarez
 
